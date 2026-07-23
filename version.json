@@ -1,1 +1,6 @@
-{"version": "0.1.21", "url": "https://github.com/yvhu/auto-control-releases/releases/download/v0.1.21/AutoControl-Setup-v0.1.21.exe", "size": 179398684, "notes": ""}
+{
+  "version": "0.1.22",
+  "url": "https://github.com/yvhu/auto-control-releases/releases/download/v0.1.22/AutoControl-Setup-v0.1.22.exe",
+  "size": 179397917,
+  "notes": "**Full Changelog**: https://github.com/yvhu/auto-control-releases/compare/v0.1.10...v0.1.22\n"
+}
